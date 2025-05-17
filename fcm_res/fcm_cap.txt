@@ -1,0 +1,48 @@
+Number of pca components:  100
+Max cumulative explained variance:  0.9722085901643699
+Russula_rosea:                  34,     90.0 %
+Psathyrella_piluliformis:       31,     100.0 %
+Hypholoma_fasciculare:          13,     100.0 %
+Boletus_edulis:                 6,      100.0 %
+Suillus_bovinus:                37,     100.0 %
+Imleria_badia:                  14,     100.0 %
+Cortinarius_semisanquineus:     10,     100.0 %
+Russula_xerampelina:            36,     90.0 %
+Connopus_acervatus:             8,      100.0 %
+Amanita_regalis:                5,      70.0 %
+Pleurotus_ostreatus:            29,     100.0 %
+Amanita_pantherina:             4,      50.0 %
+Tricholoma_fulvum:              38,     100.0 %
+Cortinarius_violaceus:          11,     60.0 %
+Russula_virescens:              35,     77.8 %
+Lactarius_trivials:             21,     100.0 %
+Amanita_muscaria:               3,      70.0 %
+Lectarius_resimus:              24,     80.0 %
+Xerocomellus_chrysenteron:      40,     44.4 %
+Russula_foetens:                33,     80.0 %
+Lactarius_flexuosus:            17,     88.9 %
+Tylopilus_felleus:              39,     100.0 %
+Pholiota_squarrosoides:         27,     100.0 %
+Cantharellus_cibarius:          7,      90.0 %
+Amanita_fluva:                  2,      100.0 %
+Lactarius_deliciosus:           16,     80.0 %
+Lactarius_piperatus:            19,     70.0 %
+Lactarius_quietus:              1,      30.0 %
+Leccinium_aurantiacum:          22,     80.0 %
+Cortinarius_armillatus:         9,      100.0 %
+Kuehneromyces_mutabilis:        15,     100.0 %
+Gomphidius_glutinosus:          12,     100.0 %
+Mycetinis_scorodonius:          26,     87.5 %
+Psathyella_candolleana:         30,     100.0 %
+Leucocoprinus_ianthinus:        25,     100.0 %
+Lactarius_glyciosmus:           18,     80.0 %
+Pholoita_flammans:              28,     100.0 %
+Agaricus_campestris:            0,      70.0 %
+Russula_claroflava:             1,      30.0 %
+Agaricus_silvicola:             1,      90.0 %
+Leccinium_scabrum:              23,     80.0 %
+m = 1.15
+всего образцов: 400
+правильно предсказано: 330.0
+ok 135
+82.5 %

@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "mushroom-classifier"
+version = "0.1.0"
+description = ""
+authors = ["Ivan Mikhailov <mikhailov.ivan.imc@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.10.1"
+scikit-learn = "^1.6.1"
+spectrums = {git = "https://github.com/IvanMikhailovIMCRAS/spectrums.git"}
+palettable = "^3.3.3"
+fuzzy-c-means = "^1.7.2"
+alive-progress = "^3.2.0"
+pandas = "1.4.4"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^25.1.0"
+isort = "^6.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
